@@ -1,5 +1,16 @@
 <?php get_header(); ?>
 
-<h1>This is my index. </h1>
+<?php if (have_posts() ):
+        while (have_posts() ): the_post(); ?>
+
+         <h3><?php the_title();   ?></h3>
+         <small>Posted: <?php the_time('j F Y'); ?></small>
+
+          <p><?php the_content(); ?></p>
+
+          <hr>
+
+        <?php endwhile;
+      endif; ?>
 
 <?php get_footer(); ?>
