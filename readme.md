@@ -1,7 +1,7 @@
 # My first wordpress theme
 :warning: This is my first theme :warning:
 
-## Installing
+### Installing
 This is the software I use:
 ```
 Im using Local by Flywheels to host a local wordpress site.
@@ -9,5 +9,5 @@ Im using Local by Flywheels to host a local wordpress site.
 Im using Visual Styudio Code for text editing.
 ```
 
-## Author
+#### Author
 * **Tomas Paulsen** :bowtie:
