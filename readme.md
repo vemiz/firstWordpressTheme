@@ -1,5 +1,6 @@
 # My first wordpress theme
 :warning: This is my first theme :warning:
+Recommend you dont use this as long as this message still stands... 
 
 ## Installing
 This is the software I use:
